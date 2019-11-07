@@ -1,0 +1,8 @@
+Eu como Gerente de estoque, necessito de um sistema que traga praticidade ao fazer as contagens de consumo de bebidas, para que esse processo seja feito com menor dificuldade e também em menor tempo.
+
+02-Eu como Supervisora de estoque necessito de uma aplicação que faz a contagem de estoque, para saber e fazer um controle de entrada e saída dos produtos(bebidas, sucos e outros).
+
+
+03-Eu como supervisora de estoque, preciso de que o sistema tenha um meio de (segurança) para identificação do usuário que realizara o pedido.
+
+04-Eu como Supervisora, Preciso de um  sistema que me traga e saiba distinguir valor e quantidade de consumo de cada usuário, para que assim esse processo saia de um modo manual para um processo com autonomia
